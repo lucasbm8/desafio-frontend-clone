@@ -13,7 +13,7 @@ The test goal is pretty straightforward: **map and fix all the bugs you can find
 
 Here is the reference for the design: [here](https://www.figma.com/file/TrRVf9BS7FxY9xkUje3wvn/Tend%C3%AAncias---Frontend-Recruitment-Assignment?type=design&node-id=0%3A1&mode=dev)
 
-The application is a simplification of the architecture used by Lemon in its projects. We encourage you to study, understand and try to keep your solutions within the standards presented. However, you can use any technology, technique and/or dependencies necessary to achieve the objective. **We guarantee that it is possible to fix all bugs without installing any new dependencies**.
+The application is a simplification of the architecture used by TID | Tendências in its projects. We encourage you to study, understand and try to keep your solutions within the standards presented. However, you can use any technology, technique and/or dependencies necessary to achieve the objective. **We guarantee that it is possible to fix all bugs without installing any new dependencies**.
 
 We also suggest that you study the documentation for the following dependencies that are used before you start:
 

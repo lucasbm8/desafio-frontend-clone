@@ -58,7 +58,7 @@ const Intro = () => {
       </Title100>
       <Body100>
         Thank you for your interest in the position as a frontend developer at
-        Lemon Energy, we hope to have you aboard soon!
+        TID | Tendências, we hope to have you aboard soon!
       </Body100>
       <Body100>
         We want to give the last instructions before you start your technical

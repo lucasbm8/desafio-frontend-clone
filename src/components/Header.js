@@ -2,7 +2,7 @@ import React from 'react'
 import styled, { css } from 'styled-components'
 import { Container, Row } from './Grid'
 import { Overline100 } from './Text'
-import { ReactComponent as LemonLogo } from '../images/LemonLogo.svg'
+import { ReactComponent as TCILogo } from '../images/TCILogo.svg'
 
 const StyledHeader = styled.div(
   ({ theme: { spacing, media } }) => css`
@@ -28,7 +28,7 @@ const Header = () => {
     <Container as="header">
       <Row>
         <StyledHeader>
-          <LemonLogo className="__logo" />
+          <TCILogo className="__logo" />
           <Overline100>Frontend - technical assignment</Overline100>
         </StyledHeader>
       </Row>
