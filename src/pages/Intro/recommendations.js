@@ -4,7 +4,14 @@ import Link from '../../components/Link'
 
 const recommendations = [
   <>
-    Read the <Link href="#">assignment instructions</Link> carefully;
+    Read the{' '}
+    <Link
+      href="https://github.com/tendenciaspedteam/desafio-frontend"
+      target="_blank"
+    >
+      assignment instructions
+    </Link>{' '}
+    carefully;
   </>,
   <>
     Take your time, we are not evaluating how fast you complete the assignment,{' '}
@@ -28,9 +35,9 @@ const recommendations = [
     create/fix a test, or implement a new component. We give more weight to how
     your development process was than how many bugs you fixed and, this is the
     only way we can evaluate that. <br />
-    At TID | Tendências, we use Conventional Commits as our commit message standard, and to
-    automate packages and applications version management, if you want to give
-    it a try, here&apos;s a{' '}
+    At TID | Tendências, we use Conventional Commits as our commit message
+    standard, and to automate packages and applications version management, if
+    you want to give it a try, here&apos;s a{' '}
     <Link href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">
       reference
     </Link>{' '}
