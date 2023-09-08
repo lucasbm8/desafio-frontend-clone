@@ -80,7 +80,9 @@ const Container = styled.div(
 
 const Footer = styled(PartialContainer)(
   ({ theme: { colors, spacing } }) => css`
-    > ${Body100} {
+      justify-content: end;
+  
+  > ${Body100} {
       svg {
         vertical-align: middle;
         height: 16px;
