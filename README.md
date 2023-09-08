@@ -1,3 +1,8 @@
+# Bugs não resolvidos
+
+Há um teste automatido que sempre falha,este teste verifica se está sendo redirecionado pro perfil do Github após o clique no Card e confirmação.Provavelmente o teste em sí está implementado errado pois a aplicação está redirecionando corretamente.
+
+
 # Tendencias Consultoria's frontend technical assignment
 
 Hey, welcome to Tendencias Consultoria’s frontend technical assignment.
