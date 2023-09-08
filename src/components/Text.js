@@ -39,10 +39,10 @@ export const Title200 = styled.h1(
 export const Overline100 = styled.p(
   () => css`
     font-weight: 700;
-    font-size: 0.5rem;
+    font-size: 0.8rem;
     text-transform: uppercase;
     line-height: 0.68rem;
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
   `,
 )
 

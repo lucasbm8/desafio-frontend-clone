@@ -14,7 +14,7 @@ const StyledHeader = styled.div(
 
     svg {
       margin-right: ${spacing(1)};
-      width: 26px;
+      width: 265px;
     }
 
     ${media.sm`
@@ -29,7 +29,7 @@ const Header = () => {
       <Row>
         <StyledHeader>
           <TCILogo className="__logo" />
-          <Overline100>Frontend - technical assignment</Overline100>
+          <Overline100>Technical Assignment</Overline100>
         </StyledHeader>
       </Row>
     </Container>
